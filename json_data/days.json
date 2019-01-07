@@ -1,0 +1,39 @@
+{
+  "MAJOR_UK": {
+    "static": {
+      "1/1": "New Year's Day",
+      "1/10": "Mum's Birthday",     
+      "2/14": "Valentine's Day",
+      "3/14": "Pi Day",
+      "3/17": "St. Patrick's Day",
+      "3/19": "Angel's Birthday",
+      "4/1": "April Fool's Day",
+      "4/22": "Earth Day",
+      "6/18": "Dave's Birthday",
+      "7/1": "Dave & Angel's Wedding Anniversary",
+      "7/4": "Independence Day",
+      "10/5": "Daniella's Birthday",
+      "10/31": "Halloween",
+      "11/5": "Guy Falwkes Day",
+      "11/11": "Rememberance Day",
+      "12/24": "Christmas Eve and Dawid's Birthday",
+      "12/25": "Christmas Day",
+      "12/26": "Boxing Day & Stephen's Birthday",
+      "12/31": "New Year's Eve"
+    },
+    "dynamic": {
+      "3/6/2019": "Ash Wednesday",
+      "2/26/2020": "Ash Wednesday",
+      "4/14/2019": "Palm Sunday",
+      "4/5/2020": "Palm Sunday",
+      "4/19/2019": "Good Friday",
+      "4/10/2020": "Good Friday",
+      "4/21/2019": "Easter Sunday",
+      "4/12/2020": "Easter Sunday",
+      "5/12/2019": "Mother's Day",
+      "5/10/2020": "Mother's Day",
+      "6/16/2019": "Father's Day",
+      "6/21/2020": "Father's Day",
+    }
+  }
+}
