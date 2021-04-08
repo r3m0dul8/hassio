@@ -22,18 +22,18 @@
       "12/31": "New Year's Eve"
     },
     "dynamic": {
-      "3/6/2019": "Ash Wednesday",
-      "2/26/2020": "Ash Wednesday",
-      "4/14/2019": "Palm Sunday",
-      "4/5/2020": "Palm Sunday",
-      "4/19/2019": "Good Friday",
-      "4/10/2020": "Good Friday",
-      "4/21/2019": "Easter Sunday",
-      "4/12/2020": "Easter Sunday",
-      "5/12/2019": "Mother's Day",
-      "5/10/2020": "Mother's Day",
-      "6/16/2019": "Father's Day",
-      "6/21/2020": "Father's Day"
+      "2/17/2021": "Ash Wednesday",
+      "3/2/2022": "Ash Wednesday",
+      "3/28/2021": "Palm Sunday",
+      "4/10/2022": "Palm Sunday",
+      "4/2/2021": "Good Friday",
+      "4/15/2022": "Good Friday",
+      "4/4/2021": "Easter Sunday",
+      "4/17/2022": "Easter Sunday",
+      "3/14/2021": "Mothering Sunday",
+      "3/27/2022": "Mothering Sunday",
+      "6/20/2021": "Father's Day",
+      "6/19/2022": "Father's Day"
     }
   }
 }
